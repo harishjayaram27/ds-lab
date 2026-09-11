@@ -1,0 +1,6 @@
+~~~~BST MENU~~~~
+1. Create a BST
+2. Display
+3. Search
+4. Exit
+
