@@ -1,0 +1,5 @@
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+
